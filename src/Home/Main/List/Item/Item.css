@@ -1,0 +1,99 @@
+.image_item {
+    width: 500px;
+}
+
+#delete-button {
+    background-color:transparent;
+	border-radius:28px;
+	border:1px solid #f40909;
+	display:inline-block;
+	cursor:pointer;
+	color:#f40909;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #f40909;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+#borrar-button{
+    background-color:transparent;
+	border-radius:28px;
+	border:1px solid #f40909;
+	display:inline-block;
+	cursor:pointer;
+	color:#f40909;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #f40909;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#add-button{
+    background-color:transparent;
+	border-radius:28px;
+	border:1px solid #05f13c;
+	display:inline-block;
+	cursor:pointer;
+	color:#05f13c;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #05f13c;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+#reload-button{
+    background-color:transparent;
+	border-radius:28px;
+	border:1px solid #02bbe9;
+	display:inline-block;
+	cursor:pointer;
+	color:#02bbe9;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #02bbe9;
+}
+.myButton:hover {
+	background-color:transparent;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#listado{
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+
+#tarea {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#botones {
+	padding-bottom: 50px;
+}

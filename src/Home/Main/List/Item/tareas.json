@@ -1,0 +1,19 @@
+[
+    {
+        "name": "NPM",
+        "info": "Instalar paquetes necesarios",
+        "priority": 10,
+        "image":"https://github.blog/wp-content/uploads/2020/03/github-npm-blog.png?resize=1600%2C850"
+    },
+    {
+        "name": "RUTAS",
+        "info": "Crear las rutas del proyecto",
+        "priority": 10,
+        "image":"https://www.awesomeandrew.ru/wp-content/uploads/2020/04/celi.jpg"
+    },
+    {
+        "info": "Pinta y Colorea CSS",
+        "priority": 7,
+        "image":"https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-css/sta-je-css.png"
+    }
+]
